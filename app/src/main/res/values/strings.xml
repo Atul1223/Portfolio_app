@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="hi_text">Hi, I am</string>
+    <string name="developer_name">Atul Kumar</string>
+    <string name="about_heading">About</string>
+    <string name="download_resume_button_text">Download Resume</string>
+    <string name="skills_heading_text">Skills</string>
+</resources>
